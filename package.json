@@ -1,0 +1,28 @@
+{
+  "name": "js_tricks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KangJun-KJ/js_tricks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KangJun-KJ/js_tricks/issues"
+  },
+  "homepage": "https://github.com/KangJun-KJ/js_tricks#readme",
+  "devDependencies": {
+    "vuepress": "^1.0.2"
+  }
+}

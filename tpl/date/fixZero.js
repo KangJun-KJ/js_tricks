@@ -1,0 +1,1 @@
+const fixZero = (time) => ("00" + time).slice(-2);
