@@ -15,6 +15,8 @@
 
 [查看 Demo](https://qishaoxuan.github.io/js_tricks/)
 
-### 使用 VuePress 搭建
+## 怎么搭建 How 
+> 1. 搭建使用[vuepress](https://vuepress.vuejs.org)
+> 2. 评论使用[gitalk](https://gitalk.github.io/)
 
-[参考](https://github.com/QiShaoXuan/js_tricks)
+[灵感来源](https://github.com/QiShaoXuan/js_tricks)
