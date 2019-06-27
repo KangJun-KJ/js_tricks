@@ -13,7 +13,7 @@
 
 ## 在线查看 online
 
-[查看 Demo](https://qishaoxuan.github.io/js_tricks/)
+[查看 Demo](https://kangjun-kj.github.io/js_tricks/)
 
 ## 怎么搭建 How 
 > 1. 搭建使用[vuepress](https://vuepress.vuejs.org)
