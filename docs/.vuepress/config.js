@@ -17,7 +17,8 @@ module.exports = {
           '/bom/',
           '/dom/',
           '/array/',
-          '/date/'
+          '/date/',
+          "/file/"
       ]
   },
   markdown: {

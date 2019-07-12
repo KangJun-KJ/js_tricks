@@ -11,3 +11,6 @@
 <demo>
 <bom-fullscreen />
 </demo>
+
+ 
+ <comment-comment/>
