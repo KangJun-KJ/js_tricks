@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{183:function(n,t,e){"use strict";e.r(t);var u={name:"test",data:function(){return{}}},s=e(0),a=Object(s.a)(u,function(){var n=this.$createElement;return(this._self._c||n)("div",[this._v("\n  测试使用vue文件\n")])},[],!1,null,null,null);t.default=a.exports}}]);
